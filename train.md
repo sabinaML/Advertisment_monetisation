@@ -1,7 +1,7 @@
 Визуализация в Metabase дашборда рекламной монетизации.
 Метрики: CTR, CPM, FillRate, выручка, частота показов
 
-Исходный код витрины здесь
+Исходный код витрины здесь https://github.com/sabinaML/Projects/blob/main/adv_monetisation.sql
 
 ![Выручка](https://github.com/sabinaML/Pictures/blob/main/1.jpeg)
 
